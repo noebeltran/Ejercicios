@@ -22,4 +22,15 @@ Los objetos sirven para representar un objeto de la vida real, con sus atributos
 Los objetos se componen de atributos. También se les puede llamar datos.
 Los atributos (datos) pueden ser, por ejemplo, en el caso de un empleado; su DNI, su nombre, su puesto en la empresa, etc.
 
-Un comportamiento es como una función, estos dos coexisten.
+Lo más importante es tener en cuenta que la clase DEFINE los atributos del objeto y que el propio objeto es una INSTANCIA de la calase.
+
+La programación orientada a objetos se compone de:
+- Clase: Define un conjunto de atributos que forman al objeto. Se accede a los atributos con un punto junto al objeto.
+  
+- Objeto: Es una instancia de la clase.
+  
+- Encapsulación: Las funciones de clase (o métodos) sirven para encapsular una clase. Es decir, que esconde a la clase y lo que está dentro de ella para que otros no pueden acceder al código de forma injustificada.
+ 
+- Herencia: Se puede crear una clase dentro de otra clase poder reautilizar o heredar las cualidades de ésta. A la primera creada se le llama clase y a la segunda subclase.
+  
+- Polimorfismo: Es una palabra de origen griego que significa "tener múltiples formas". En el caso de OOP, el polimorfismo ocurre cuando cada subclase implementa su propio método.
